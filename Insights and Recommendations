@@ -1,3 +1,14 @@
-Relationship between Discount and Total amount spent 
+Key Insights:
 
-![Picture1](https://github.com/user-attachments/assets/fb26bac4-772f-4977-bd62-9eda6164f425)
+📊 There’s a positive correlation (0.406) between Discount and Total Amount Spent.
+While this suggests discounts encourage spending, variability in the data shows not all transactions follow this trend. 
+This implies other factors may influence spending.
+In our regression model, both Discount and Product Price were statistically significant in predicting Total Amount Spent, indicating that customers tend to spend more when discounts are applied, but they’re also willing to pay for quality.
+
+Strategic Recommendations:
+
+Pricing Strategy: The positive impact of product price on spending suggests customers perceive value in higher-priced products. The Trendy Shopper should consider maintaining or even increasing prices for premium items, leveraging customer perception of quality and brand.
+
+Discount Strategy: Since discounts positively impact spending, a strategic discount approach could drive sales effectively. Targeted discounts could be particularly valuable during peak shopping seasons or for specific customer segments.
+
+Customer Segmentation: Age, Gender, User Region, and Product Category did not show significant influence in this model on total spending, but further analysis could uncover deeper segmentation insights. Understanding behavior by segment may open doors for tailored marketing and more effective targeting.
